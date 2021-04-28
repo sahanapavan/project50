@@ -1,0 +1,44 @@
+h1{
+    color:blue;
+}
+/**{
+    border:solid;
+}*/
+.header{
+    background-color:burlywood;
+    display:flex;
+    justify-content:space-between;
+  }
+  .bodyImg{
+      align-content:center ;
+  }
+.menu{
+    display:flex;
+    align-content:center;
+    background-color:black;
+    font-size:20px;
+    font-family:sans-serif;
+    font-weight:400;
+    color:white;
+    }
+body{
+    background-color:whitesmoke;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+
+    border:2px solid black;
+    border-radius:100px;
+}
+.item{
+    border-radius:20px;
+    background-color:white;
+
+    width:310px;
+    font-family:fantasy;
+}
+
+
+
